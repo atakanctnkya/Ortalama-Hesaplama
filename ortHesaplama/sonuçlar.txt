@@ -1,0 +1,10 @@
+Harf Notunuz CB, 4'lük sistemdeki karşılığı 2.5'tur
+78.0
+Harf Notunuz FF, 4'lük sistemdeki karşılığı 0.0'dır.
+30.8
+Harf Notunuz DC, 4'lük sistemdeki karşılığı 1.5'tur
+66.4
+Harf Notunuz CB, 4'lük sistemdeki karşılığı 2.5'tur
+78.1
+Harf Notunuz CC, 4'lük sistemdeki karşılığı 2.0'dır
+73.0
